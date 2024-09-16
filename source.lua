@@ -1,5 +1,8 @@
 -- \\ Universal Remote Firer By mxkxkks //
--- Go to https://github.com/mxkxkks1/Universal-Remote-Firer for latest updates
+-- Go to https://github.com/mxkxkks1/Universal-Remote-Firer for latest 
+-- questions , crashes, or bugs? DM me on discord: 975121301549219941
+-- feel free to make a pull request.
+
 
 -- [Games Tested On]
 -- https://www.roblox.com/games/13667319624/Knockout-Simulator [Infinite Strength / Wins]
