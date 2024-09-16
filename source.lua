@@ -13,6 +13,10 @@
 -- https://www.roblox.com/games/15154513235/Kamehameha-Simulator [Rejoin if kicked / Unlimited Spins/ Inf power / Inf Pets / Claim all daily rewards / Reclaim Gifts]
 -- https://www.roblox.com/games/18939066871/Diddy-Plinko-RNG-V2-X2-WEEKEND [Drop Autofarm]
 
+
+
+--[[Disable Server Teleportation]]
+
 local a = {}
 
 local function isDefaultRobloxRemote(remote)
