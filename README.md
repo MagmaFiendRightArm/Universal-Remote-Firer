@@ -3,7 +3,7 @@
 ## Features
 - Works on multiple games
 - Ignores default Roblox remotes
-- 
+  
 ## Supported Games
 - Knockout Simulator
 - Ski Race Simulator
