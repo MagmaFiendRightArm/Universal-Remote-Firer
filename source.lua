@@ -10,7 +10,7 @@
 -- https://www.roblox.com/games/15338697306/Go-Kart-Race-Simulator [Infinite Wins]
 -- https://www.roblox.com/games/15352354257/Ball-Eating-Simulator [Collect Badges / 3]
 -- https://www.roblox.com/games/15154513235/Kamehameha-Simulator [Rejoin if kicked / Unlimited Spins/ Inf power / Inf Pets / Claim all daily rewards / Reclaim Gifts]
--- https://www.roblox.com/games/18939066871/Diddy-Plinko-RNG-V2-X2-WEEKEND [Drop Autofarm]
+-- https://www.roblox.com/games/18939066871/Diddy-Plinko-RNG-V2-X2-WEEKEND [Fast Drop Autofarm]
 
 -- [[]]
 
