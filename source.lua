@@ -62,31 +62,8 @@ local function e(...)
     end
 end
 
-local function safeexecute()
-    local success, err = pcall(function()
-        b()
-        e()
-    end)
-    
-    if not success then
-        crashCount = crashCount + 1
-        if crashCount >= maxCrashAttempts then
-            warn("Max crash attempts reached. Stopping execution.")
-            return false
-        else
-            warn("Execution failed. Retrying... Attempt: " .. crashCount)
-            wait(1)
-            return true
-        end
-    else
-        crashCount = 0
-        return true
-    end
-end
+b()
 
-while safeexecute() do
-    wait(0.1)
-end
 
 --[[==========[ Args ]==========]]
 --[[ Update Log:
