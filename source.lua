@@ -1,5 +1,4 @@
--- Universal Remote Firer By mxkxkks 
--- Go to https://github.com/mxkxkks1/Universal-Remote-Firer for latest 
+-- Universal Remote Firer By MagmaFiendRightArm 
 -- questions , crashes, or bugs? DM me on discord: 975121301549219941
 -- feel free to make a pull request.
 
